@@ -1,1 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+  margin: 0;
+  padding: 0;
+}
+/* header */
+header{
+  position: absolute;
+  width: 1000.39px;
+  height: 32px;
+  left: 200.61px;
+  top: 27.76px;
+}
+/* logo */
+logo {
+position: absolute;
+width: 161px;
+height: 32px;
+left: 200.61px;
+top: 27.76px;
+}
+/* menu */
+menu {
+position: absolute;
+width: 255px;
+height: 15px;
+left: 946px;
+top: 37px;
+}
+/* contact us */
+contactUs{
+position: absolute;
+height: 15px;
+left: 78.43%;
+right: 0%;
+top: calc(50% - 15px/2);
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 15px;
+color: #FFFFFF;
+}
+/* our results */
+ourResults{
+position: absolute;
+height: 15px;
+left: 40%;
+right: 37.65%;
+top: calc(50% - 15px/2);
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 15px;
+color: #FFFFFF;
+}
+/* what we do */
+whatWeDo{
+position: absolute;
+height: 15px;
+left: 0%;
+right: 76.08%;
+top: calc(50% - 15px/2);
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 15px;
+color: #FFFFFF;
+}
+
+
+
+
+
+
+
 
