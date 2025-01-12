@@ -15,24 +15,407 @@ header{
   left: 200.61px;
   top: 27.76px;
 }
+@media only screen and (max-width: 768px) {
+  /* header */
+  header {
+   position: absolute;
+   width: 633px;
+   height: 32px;
+   left: 66px;
+   top: 29px;
+  }
+  /* logo */
+  #logo{
+    position: absolute;
+    width: 161px;
+    height: 32px;
+    left: 66px;
+    top: 29px;
+  }
+  /* menu */
+  #menu{
+    position: absolute;
+    width: 255px;
+    height: 15px;
+    left: 444px;
+    top: 37px;
+  }
+  /* contact us */
+  #ontactUs{
+    position: absolute;
+    height: 15px;
+    left: 78.43%;
+    right: 0%;
+    top: calc(50% - 15px/2);
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    color: #FFFFFF;
+  }
+  /* our results */
+  #ourResults {
+    position: absolute;
+    height: 15px;
+    left: 40%;
+    right: 37.65%;
+    top: calc(50% - 15px/2);
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    color: #FFFFFF;
+  }
+  /* what we do */
+  #whatWeDo {
+    position: absolute;
+    height: 15px;
+    left: 0%;
+    right: 76.08%;
+    top: calc(50% - 15px/2);
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    color: #FFFFFF;
+   }
+   /* main_part */
+   main{
+    position: absolute;
+    width: 768px;
+    height: 800px;
+    left: 0px;
+    top: 0px;
+   }
+   /* text */
+   text {
+     position: absolute;
+     width: 637px;
+     height: 313px;
+     left: 66px;
+     top: 372px;
+   }
+
+   /* Lorem ipsum dolor si */
+   #LoremIpsumDolorSi {
+     position: absolute;
+     height: 104px;
+     left: 0%;
+     right: 0%;
+     top: calc(50% - 104px/2 + 104.5px);
+     font-family: 'Source Sans Pro';
+     font-style: normal;
+     font-weight: 400;
+     font-size: 16px;
+     line-height: 26px;
+     text-align: center;
+     color: #FFFFFF;
+   }
+
+   /* Lorem ipsum dolor se Copy */
+   #LoremIpsumDolorSe {
+      position: absolute;
+      height: 20px;
+      left: 22.14%;
+      right: 22.14%;
+      top: calc(50% - 20px/2 - 106.5px);
+      font-family: 'Source Sans Pro';
+      font-style: normal;
+      font-weight: 700;
+      font-size: 16px;
+      line-height: 20px;
+      text-align: center;
+      color: #FFFFFF;
+   }
+   /* Lorem ipsum dolor se */
+   #LoremIpsumDolorSa {
+      position: absolute;
+      height: 40px;
+      left: 4.55%;
+      right: 4.71%;
+      top: calc(50% - 40px/2 - 136.5px);
+      font-family: 'Source Sans Pro';
+      font-style: normal;
+      font-weight: 700;
+      font-size: 32px;
+      line-height: 40px;
+      text-align: center;
+      color: #FFFFFF;
+   }
+   /* button */
+   button {
+      position: absolute;
+      left: 37.21%;
+      right: 37.36%;
+      top: 31.95%;
+      bottom: 53.99%;
+   }
+   /* CALL TO ACTION */
+   #callToAction{
+      position: absolute;
+      height: 18px;
+      left: 19.14%;
+      right: 19.14%;
+      top: calc(50% - 18px/2);
+      font-family: 'Source Sans Pro';
+      font-style: normal;
+      font-weight: 700;
+      font-size: 14px;
+      line-height: 18px;
+      text-align: center;
+      color: #FFFFFF;
+   }
+   /* button_background */
+   #buttonBackground {
+      position: absolute;
+      left: 0%;
+      right: 0%;
+      top: 0%;
+      bottom: 0%;
+      background: #FF6565;
+      box-shadow: 0px 2px 20px rgba(0, 0, 0, 0.5);
+      border-radius: 22px;
+   }
+   /* background */
+   #background{
+      position: absolute;
+      width: 768px;
+      height: 800px;
+      left: 0px;
+      top: 0px;
+   }
+   /* mask */
+   #mask {
+      position: absolute;
+      width: 768px;
+      height: 800px;
+      left: 0px;
+      top: 0px;
+      background: #D8D8D8;
+      border: 1px solid #979797;
+   }
+
+
+}
+
+@media only screen and (max-width: 365px) {
+  /* header */
+  header {
+     position: absolute;
+     width: 247px;
+     height: 32px;
+     left: 21px;
+     top: 29px;
+  }
+  /* logo */
+  #logo{
+    position: absolute;
+    width: 161px;
+    height: 32px;
+    left: 107px;
+    top: 29px;
+  }
+  /* menu */
+  #menu{
+   position: absolute;
+   width: 20px;
+   height: 14px;
+   left: 21px;
+   top: 38px;
+   background: #FFFFFF;
+  }
+  /* Rectangle */
+  #Rectangle {
+  position: absolute;
+  width: 18px;
+  height: 2px;
+  left: 21px;
+  top: 50px;
+  background: #A8B5C8;
+  border-radius: 2px;
+  /* contact us */
+  #ontactUs{
+    position: absolute;
+    height: 15px;
+    left: 78.43%;
+    right: 0%;
+    top: calc(50% - 15px/2);
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    color: #FFFFFF;
+  }
+  /* our results */
+  #ourResults {
+    position: absolute;
+    height: 15px;
+    left: 40%;
+    right: 37.65%;
+    top: calc(50% - 15px/2);
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    color: #FFFFFF;
+  }
+  /* what we do */
+  #whatWeDo {
+    position: absolute;
+    height: 15px;
+    left: 0%;
+    right: 76.08%;
+    top: calc(50% - 15px/2);
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    color: #FFFFFF;
+   }
+   /* main_part */
+   main{
+    position: absolute;
+    width: 768px;
+    height: 800px;
+    left: 0px;
+    top: 0px;
+   }
+   /* text */
+   text {
+     position: absolute;
+     width: 637px;
+     height: 313px;
+     left: 66px;
+     top: 372px;
+   }
+
+   /* Lorem ipsum dolor si */
+   #LoremIpsumDolorSi {
+     position: absolute;
+     height: 104px;
+     left: 0%;
+     right: 0%;
+     top: calc(50% - 104px/2 + 104.5px);
+     font-family: 'Source Sans Pro';
+     font-style: normal;
+     font-weight: 400;
+     font-size: 16px;
+     line-height: 26px;
+     text-align: center;
+     color: #FFFFFF;
+   }
+
+   /* Lorem ipsum dolor se Copy */
+   #LoremIpsumDolorSe {
+      position: absolute;
+      height: 20px;
+      left: 22.14%;
+      right: 22.14%;
+      top: calc(50% - 20px/2 - 106.5px);
+      font-family: 'Source Sans Pro';
+      font-style: normal;
+      font-weight: 700;
+      font-size: 16px;
+      line-height: 20px;
+      text-align: center;
+      color: #FFFFFF;
+   }
+   /* Lorem ipsum dolor se */
+   #LoremIpsumDolorSa {
+      position: absolute;
+      height: 40px;
+      left: 4.55%;
+      right: 4.71%;
+      top: calc(50% - 40px/2 - 136.5px);
+      font-family: 'Source Sans Pro';
+      font-style: normal;
+      font-weight: 700;
+      font-size: 32px;
+      line-height: 40px;
+      text-align: center;
+      color: #FFFFFF;
+   }
+   /* button */
+   button {
+      position: absolute;
+      left: 37.21%;
+      right: 37.36%;
+      top: 31.95%;
+      bottom: 53.99%;
+   }
+   /* CALL TO ACTION */
+   #callToAction{
+      position: absolute;
+      height: 18px;
+      left: 19.14%;
+      right: 19.14%;
+      top: calc(50% - 18px/2);
+      font-family: 'Source Sans Pro';
+      font-style: normal;
+      font-weight: 700;
+      font-size: 14px;
+      line-height: 18px;
+      text-align: center;
+      color: #FFFFFF;
+   }
+   /* button_background */
+   #buttonBackground {
+      position: absolute;
+      left: 0%;
+      right: 0%;
+      top: 0%;
+      bottom: 0%;
+      background: #FF6565;
+      box-shadow: 0px 2px 20px rgba(0, 0, 0, 0.5);
+      border-radius: 22px;
+   }
+   /* background */
+   #background{
+      position: absolute;
+      width: 768px;
+      height: 800px;
+      left: 0px;
+      top: 0px;
+   }
+   /* mask */
+   #mask {
+      position: absolute;
+      width: 768px;
+      height: 800px;
+      left: 0px;
+      top: 0px;
+      background: #D8D8D8;
+      border: 1px solid #979797;
+   }
+
+
+}
 /* logo */
-logo {
+#logo {
 position: absolute;
 width: 161px;
 height: 32px;
 left: 200.61px;
 top: 27.76px;
 }
+
 /* menu */
-menu {
+#menu {
 position: absolute;
 width: 255px;
 height: 15px;
 left: 946px;
 top: 37px;
 }
+
 /* contact us */
-contactUs{
+#contactUs{
 position: absolute;
 height: 15px;
 left: 78.43%;
@@ -45,8 +428,9 @@ font-size: 12px;
 line-height: 15px;
 color: #FFFFFF;
 }
+
 /* our results */
-ourResults{
+#ourResults{
 position: absolute;
 height: 15px;
 left: 40%;
@@ -60,7 +444,7 @@ line-height: 15px;
 color: #FFFFFF;
 }
 /* what we do */
-whatWeDo{
+#whatWeDo{
 position: absolute;
 height: 15px;
 left: 0%;
@@ -73,6 +457,133 @@ font-size: 12px;
 line-height: 15px;
 color: #FFFFFF;
 }
+/* main_part */
+main{
+position: absolute;
+width: 1400px;
+height: 800px;
+left: 0px;
+top: 0px;
+}
+/* text */
+#text{
+position: absolute;
+width: 637px;
+height: 313px;
+left: 382px;
+top: 372px;
+}
+/* button */
+#button{
+position: absolute;
+left: 37.21%;
+right: 37.36%;
+top: 31.95%;
+bottom: 53.99%;
+}
+/* CALL TO ACTION */
+#callToAction{
+position: absolute;
+height: 18px;
+left: 19.14%;
+right: 19.14%;
+top: calc(50% - 18px/2);
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 18px;
+text-align: center;
+color: #FFFFFF;
+}
+/* button_background */
+#button_background{
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+background: #FF6565;
+box-shadow: 0px 2px 20px rgba(0, 0, 0, 0.5);
+border-radius: 22px;
+}
+/* Lorem ipsum dolor si */
+#LoremIpsumDolorSi{
+position: absolute;
+height: 104px;
+left: 0%;
+right: 0%;
+top: calc(50% - 104px/2 + 104.5px);
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+text-align: center;
+color: #FFFFFF;
+}
+/* Lorem ipsum dolor se */
+#LoremIpsumDolorSe{
+position: absolute;
+height: 20px;
+left: 22.14%;
+right: 22.14%;
+top: calc(50% - 20px/2 - 106.5px);
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+color: #FFFFFF;
+}
+/* Lorem ipsum dolor sa */
+#LoremIpsumDolorSa{
+position: absolute;
+height: 40px;
+left: 4.55%;
+right: 4.71%;
+top: calc(50% - 40px/2 - 136.5px);
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 40px;
+text-align: center;
+color: #FFFFFF;
+}
+/* background */
+#background {
+position: absolute;
+width: 1400px;
+height: 800px;
+left: 0px;
+top: 0px;
+}
+
+/* Object */
+#Object{
+position: absolute;
+width: 100px;
+height: 100px;
+left: 0px;
+top: 0px;
+}
+/* mask */
+#mask {
+position: absolute;
+width: 1400px;
+height: 800px;
+left: 0px;
+top: 0px;
+
+background: #D8D8D8;
+border: 1px solid #979797;
+}
+
+
+
+
 
 
 
