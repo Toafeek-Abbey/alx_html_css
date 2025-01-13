@@ -41,7 +41,7 @@ header{
     top: 37px;
   }
   /* contact us */
-  #ontactUs{
+  #contactUs{
     position: absolute;
     height: 15px;
     left: 78.43%;
@@ -809,7 +809,7 @@ color: #071629;
   background: #A8B5C8;
   border-radius: 2px;
   /* contact us */
-  #ontactUs{
+  #contactUs{
     position: absolute;
     height: 15px;
     left: 78.43%;
