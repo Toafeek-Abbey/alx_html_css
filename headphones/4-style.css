@@ -769,6 +769,77 @@ text-align: center;
 
 color: #071629;
 }
+/* part_5_footer */
+#footer_background {
+position: absolute;
+width: 768px;
+height: 249px;
+left: 0px;
+top: 3258px;
+bottom: 0%;
+background: #071629;
+}
+/* ©headphones 2020 */
+#footer_txt {
+position: absolute;
+height: 15px;
+left: 43.62%;
+right: 43.62%;
+top: calc(50% - 15px/2 + 82px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+color: #FFFFFF;
+mix-blend-mode: normal;
+opacity: 0.35;
+}
+/* logo */
+#footer_logo {
+position: absolute;
+left: 7.29%;
+right: 71.61%;
+top: 43.78%;
+bottom: 43.37%;
+}
+/* social_icons */
+#social_icon {
+position: absolute;
+width: 130px;
+height: 30px;
+left: 594px;
+top: 109px;
+}
+/* Facebook */
+#facebook {
+position: absolute;
+width: 30px;
+height: 30px;
+left: 594px;
+top: 109px;
+}
+
+/* Twitter */
+#twitter {
+position: absolute;
+width: 30px;
+height: 30px;
+left: 644px;
+top: 109px;
+}
+
+
+/* Instagram */
+#instagram {
+position: absolute;
+width: 30px;
+height: 30px;
+left: 694px;
+top: 109px;
+}
+
 
 
 }
@@ -1594,7 +1665,74 @@ text-align: center;
 
 color: #071629;
 }
+/* part_5_footer */
+#footer_background {
+position: absolute;
+width: 375px;
+height: 249px;
+left: 0px;
+top: 4611px;
+right: 0%;
+bottom: 0%;
+background: #071629;
+}
 
+/* social_icons */
+#social_icon {
+position: absolute;
+width: 130px;
+height: 30px;
+left: 123px;
+top: 125px;
+}
+/* Facebook */
+#facebook {
+position: absolute;
+width: 30px;
+height: 30px;
+left: 123px;
+top: 125px;
+}
+/* Twitter */
+#twitter {
+position: absolute;
+width: 30px;
+height: 30px;
+left: 173px;
+top: 125px;
+}
+/* Instagram */
+#instagram {
+position: absolute;
+width: 30px;
+height: 30px;
+left: 223px;
+top: 125px;
+}
+/* logo */
+#footer_logo {
+position: absolute;
+left: 28.53%;
+right: 28.27%;
+top: 19.28%;
+bottom: 67.87%;
+}
+/* ©headphones 2020 */
+#footer_txt {
+position: absolute;
+height: 15px;
+left: 37.07%;
+right: 36.8%;
+top: calc(50% - 15px/2 + 83px);
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+color: #FFFFFF;
+mix-blend-mode: normal;
+opacity: 0.35;
+}
 
 }
 /* logo */
@@ -2291,7 +2429,73 @@ text-align: center;
 
 color: #FFFFFF;
 }
-
+/* part_5_footer */
+#footer_background {
+position: absolute;
+width: 1400px;
+height: 249px;
+left: 0px;
+top: 2757px;
+right: 0%;
+bottom: 0%;
+background: #071629;
+}
+/* social_icons */
+#social_icon {
+position: absolute;
+width: 130px;
+height: 30px;
+left: 1070px;
+top: 90px;
+}
+/* Facebook */
+#facebook {
+position: absolute;
+width: 30px;
+height: 30px;
+left: 1070px;
+top: 90px;
+}
+/* Twitter */
+#twitter {
+position: absolute;
+width: 30px;
+height: 30px;
+left: 1120px;
+top: 90px;
+}
+/* Instagram */
+#instagram {
+position: absolute;
+width: 30px;
+height: 30px;
+left: 1170px;
+top: 90px;
+}
+/* logo */
+#footer_logo {
+position: absolute;
+width: 161px;
+height: 32px;
+left: 199.61px;
+top: 91.76px;
+}
+/* ©headphones 2020 */
+#footer_txt {
+position: absolute;
+height: 15px;
+left: 46.5%;
+right: 46.5%;
+top: calc(50% - 15px/2 + 78px);
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+color: #FFFFFF;
+mix-blend-mode: normal;
+opacity: 0.35;
+}
 
 
 
