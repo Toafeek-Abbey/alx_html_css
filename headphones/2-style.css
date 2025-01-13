@@ -41,7 +41,7 @@ header{
     top: 37px;
   }
   /* contact us */
-  #ontactUs{
+  #contactUs{
     position: absolute;
     height: 15px;
     left: 78.43%;
@@ -574,10 +574,55 @@ top: 0%;
 bottom: 0%;
 background: #071629;
 }
+/* Our results speak fo */
+#ourresult {
+position: absolute;
+height: 40px;
+left: 20.96%;
+right: 20.44%;
+top: calc(50% - 40px/2 - 277px);
 
+font-family: 'SourceSansPro';
+font-size: 32px;
+line-height: 38px;
+text-align: center;
+
+color: #FFFFFF;
+}
+/* What we do… */
+#whatwedo {
+position: absolute;
+height: 40px;
+left: 35.01%;
+right: 34.85%;
+top: calc(50% - 40px/2 - 72px);
+
+font-family: 'SourceSansPro';
+font-size: 32px;
+line-height: 38px;
+text-align: center;
+
+color: #071629;
 }
 
-@media only screen and (max-width: 365px) {
+}
+/* Our results speak fo */
+#ourresult {
+position: absolute;
+height: 40px;
+left: 34%;
+right: 33.86%;
+top: calc(50% - 40px/2 - 164px);
+
+font-family: 'SourceSansPro';
+font-size: 32px;
+line-height: 38px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+@media only screen and (max-width: 375px) {
   /* header */
   header {
      position: absolute;
@@ -1205,6 +1250,36 @@ right: 0%;
 top: 0%;
 bottom: 0%;
 background: #071629;
+}
+/* What we do… */
+#whatwedo {
+position: absolute;
+height: 40px;
+left: 35.01%;
+right: 34.85%;
+top: calc(50% - 40px/2 - 72px);
+
+font-family: 'SourceSansPro';
+font-size: 32px;
+line-height: 38px;
+text-align: center;
+
+color: #071629;
+  }
+/* Our results speak fo */
+#ourresult {
+position: absolute;
+height: 40px;
+left: 20.96%;
+right: 20.44%;
+top: calc(50% - 40px/2 - 277px);
+
+font-family: 'SourceSansPro';
+font-size: 32px;
+line-height: 38px;
+text-align: center;
+
+color: #FFFFFF;
 }
 
 
