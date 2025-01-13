@@ -575,9 +575,205 @@ bottom: 0%;
 background: #071629;
 }
 
+/* part_4_contact_us */
+#contactdiv {
+position: absolute;
+width: 335px;
+height: 373px;
+left: 218px;
+top: 2755px;
+}
+/* button */
+#button_div {
+position: absolute;
+left: 25.67%;
+right: 25.97%;
+top: 88.2%;
+bottom: 0%;
+}
+/* CALL TO ACTION */
+#button_text {
+position: absolute;
+height: 18px;
+left: 19.14%;
+right: 19.14%;
+top: calc(50% - 18px/2);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+}
+/* button_background */
+#button_con {
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FF6565;
+border-radius: 22px;
+}
+/* input_3 */
+#messagediv {
+position: absolute;
+left: 0%;
+right: 0%;
+top: 65.42%;
+bottom: 26.81%;
+}
+/* Rectangle */
+#meassage {
+position: absolute;
+left: 0%;
+right: 0%;
+top: 96.55%;
+bottom: 0%;
+
+background: #071629;
+mix-blend-mode: normal;
+opacity: 0.17;
+}
+/* Your message */
+#message_txt {
+position: absolute;
+height: 18px;
+left: 0%;
+right: 74.93%;
+top: calc(50% - 18px/2 - 5.5px);
+
+font-family: 'SourceSansPro';
+font-size: 14px;
+line-height: 16px;
+
+color: #071629;
+}
+/* input_2 */
+#emaildiv {
+position: absolute;
+left: 0%;
+right: 0%;
+top: 45.58%;
+bottom: 46.65%;
+}
+/* Rectangle */
+#email {
+position: absolute;
+left: 0%;
+right: 0%;
+top: 96.55%;
+bottom: 0%;
+
+background: #071629;
+mix-blend-mode: normal;
+opacity: 0.17;
+}
+/* Email */
+#email_txt {
+position: absolute;
+height: 18px;
+left: 0%;
+right: 89.55%;
+top: calc(50% - 18px/2 - 5.5px);
+
+font-family: 'SourceSansPro';
+font-size: 14px;
+line-height: 16px;
+
+color: #071629;
+}
+/* input_1 */
+#namediv {
+position: absolute;
+left: 0%;
+right: 0%;
+top: 25.74%;
+bottom: 66.49%;
+}
+/* Rectangle */
+#name {
+position: absolute;
+left: 0%;
+right: 0%;
+top: 96.55%;
+bottom: 0%;
+
+background: #071629;
+mix-blend-mode: normal;
+opacity: 0.17;
+}
+/* Name */
+#name_txt {
+position: absolute;
+height: 18px;
+left: 0%;
+right: 89.25%;
+top: calc(50% - 18px/2 - 5.5px);
+
+font-family: 'SourceSansPro';
+font-size: 14px;
+line-height: 16px;
+
+color: #071629;
 }
 
-@media only screen and (max-width: 365px) {
+/* Contact us */
+#contactus {
+position: absolute;
+height: 40px;
+left: 28.06%;
+right: 28.06%;
+top: calc(50% - 40px/2 - 166.5px);
+
+font-family: 'SourceSansPro';
+font-size: 32px;
+line-height: 38px;
+text-align: center;
+
+color: #071629;
+
+}
+/* Our results speak fo */
+#ourresult {
+position: absolute;
+height: 40px;
+left: 20.96%;
+right: 20.44%;
+top: calc(50% - 40px/2 - 277px);
+
+font-family: 'SourceSansPro';
+font-size: 32px;
+line-height: 38px;
+text-align: center;
+
+color: #FFFFFF;
+}
+/* What we do… */
+#whatwedo {
+position: absolute;
+height: 40px;
+left: 35.01%;
+right: 34.85%;
+top: calc(50% - 40px/2 - 72px);
+
+font-family: 'SourceSansPro';
+font-size: 32px;
+line-height: 38px;
+text-align: center;
+
+color: #071629;
+}
+
+
+}
+
+@media only screen and (max-width: 375px) {
   /* header */
   header {
      position: absolute;
@@ -1206,6 +1402,198 @@ top: 0%;
 bottom: 0%;
 background: #071629;
 }
+/* What we do… */
+#whatwedo {
+position: absolute;
+height: 40px;
+left: 35.01%;
+right: 34.85%;
+top: calc(50% - 40px/2 - 72px);
+
+font-family: 'SourceSansPro';
+font-size: 32px;
+line-height: 38px;
+text-align: center;
+
+color: #071629;
+  }
+/* Our results speak fo */
+#ourresult {
+position: absolute;
+height: 40px;
+left: 20.96%;
+right: 20.44%;
+top: calc(50% - 40px/2 - 277px);
+
+font-family: 'SourceSansPro';
+font-size: 32px;
+line-height: 38px;
+text-align: center;
+
+color: #FFFFFF;
+}
+/* part_4_contact_us */
+#contactdiv {
+position: absolute;
+width: 335px;
+height: 373px;
+left: 218px;
+top: 2755px;
+}
+/* button */
+#button_div {
+position: absolute;
+left: 25.67%;
+right: 25.97%;
+top: 88.2%;
+bottom: 0%;
+}
+/* CALL TO ACTION */
+#button_text {
+position: absolute;
+height: 18px;
+left: 19.14%;
+right: 19.14%;
+top: calc(50% - 18px/2);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+}
+/* button_background */
+#button_con {
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FF6565;
+border-radius: 22px;
+}
+/* input_3 */
+#messagediv {
+position: absolute;
+left: 0%;
+right: 0%;
+top: 65.42%;
+bottom: 26.81%;
+}
+/* Rectangle */
+#meassage {
+position: absolute;
+left: 0%;
+right: 0%;
+top: 96.55%;
+bottom: 0%;
+
+background: #071629;
+mix-blend-mode: normal;
+opacity: 0.17;
+}
+/* Your message */
+#message_txt {
+position: absolute;
+height: 18px;
+left: 0%;
+right: 74.93%;
+top: calc(50% - 18px/2 - 5.5px);
+
+font-family: 'SourceSansPro';
+font-size: 14px;
+line-height: 16px;
+
+color: #071629;
+}
+/* input_2 */
+#emaildiv {
+position: absolute;
+left: 0%;
+right: 0%;
+top: 45.58%;
+bottom: 46.65%;
+}
+/* Rectangle */
+#email {
+position: absolute;
+left: 0%;
+right: 0%;
+top: 96.55%;
+bottom: 0%;
+
+background: #071629;
+mix-blend-mode: normal;
+opacity: 0.17;
+}
+/* Email */
+#email_txt {
+position: absolute;
+height: 18px;
+left: 0%;
+right: 89.55%;
+top: calc(50% - 18px/2 - 5.5px);
+
+font-family: 'SourceSansPro';
+font-size: 14px;
+line-height: 16px;
+
+color: #071629;
+}
+/* input_1 */
+#namediv {
+position: absolute;
+left: 0%;
+right: 0%;
+top: 25.74%;
+bottom: 66.49%;
+  }
+/* Rectangle */
+#name {
+position: absolute;
+left: 0%;
+right: 0%;
+top: 96.55%;
+bottom: 0%;
+
+background: #071629;
+mix-blend-mode: normal;
+opacity: 0.17;
+  }
+/* Name */
+#name_txt {
+position: absolute;
+height: 18px;
+left: 0%;
+right: 89.25%;
+top: calc(50% - 18px/2 - 5.5px);
+
+font-family: 'SourceSansPro';
+font-size: 14px;
+line-height: 16px;
+
+color: #071629;
+}
+/* Contact us */
+#contactus {
+position: absolute;
+height: 40px;
+left: 28.06%;
+right: 28.06%;
+top: calc(50% - 40px/2 - 166.5px);
+
+font-family: 'SourceSansPro';
+font-size: 32px;
+line-height: 38px;
+text-align: center;
+
+color: #071629;
+}
 
 
 }
@@ -1714,15 +2102,195 @@ top: 0%;
 bottom: 0%;
 background: #071629;
 }
+/* part_4_contact_us */
+#contactdiv {
+position: absolute;
+width: 335px;
+height: 373px;
+left: 533px;
+top: 2254px;
+}
+/* Button */
+#button_div {
+position: absolute;
+left: 25.67%;
+right: 25.97%;
+top: 88.2%;
+bottom: 0%;
+}
+/* CALL TO ACTION */
+#button_text {
+position: absolute;
+height: 18px;
+left: 19.14%;
+right: 19.14%;
+top: calc(50% - 18px/2);
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 18px;
+text-align: center;
+color: #FFFFFF;
+}
+/* button_background */
+#button_con {
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
 
+background: #FF6565;
+border-radius: 22px;
+}
+/* input_3 */
+#messagediv {
+position: absolute;
+left: 0%;
+right: 0%;
+top: 65.42%;
+bottom: 26.81%;
+}
+/* Rectangle */
+#message{
+position: absolute;
+left: 0%;
+right: 0%;
+top: 96.55%;
+bottom: 0%;
 
+background: #071629;
+mix-blend-mode: normal;
+opacity: 0.17;
+}
+/* Your message */
+#message_txt {
+position: absolute;
+height: 18px;
+left: 0%;
+right: 74.93%;
+top: calc(50% - 18px/2 - 5.5px);
 
+font-family: 'SourceSansPro';
+font-size: 14px;
+line-height: 16px;
 
+color: #071629;
+}
+/* input_2 */
+#emaildiv {
+position: absolute;
+left: 0%;
+right: 0%;
+top: 45.58%;
+bottom: 46.65%;
+}
+/* Rectangle */
+#email {
+position: absolute;
+left: 0%;
+right: 0%;
+top: 96.55%;
+bottom: 0%;
 
+background: #071629;
+mix-blend-mode: normal;
+opacity: 0.17;
+}
+/* Email */
+#email_txt {
+position: absolute;
+height: 18px;
+left: 0%;
+right: 89.55%;
+top: calc(50% - 18px/2 - 5.5px);
 
+font-family: 'SourceSansPro';
+font-size: 14px;
+line-height: 16px;
 
+color: #071629;
+}
+/* input_1 */
+#namediv {
+position: absolute;
+left: 0%;
+right: 0%;
+top: 25.74%;
+bottom: 66.49%;
+}
+/* Rectangle */
+#name{
+position: absolute;
+left: 0%;
+right: 0%;
+top: 96.55%;
+bottom: 0%;
 
+background: #071629;
+mix-blend-mode: normal;
+opacity: 0.17;
+}
+/* Name */
+##name_txt {
+position: absolute;
+height: 18px;
+left: 0%;
+right: 89.25%;
+top: calc(50% - 18px/2 - 5.5px);
 
+font-family: 'SourceSansPro';
+font-size: 14px;
+line-height: 16px;
+
+color: #071629;
+}
+/* Contact us */
+#contactus {
+position: absolute;
+height: 40px;
+left: 28.06%;
+right: 28.06%;
+top: calc(50% - 40px/2 - 166.5px);
+
+font-family: 'SourceSansPro';
+font-size: 32px;
+line-height: 38px;
+text-align: center;
+
+color: #071629;
+}
+/* What we do… */
+#whatwedo {
+position: absolute;
+height: 40px;
+left: 35.01%;
+right: 34.85%;
+top: calc(50% - 40px/2 - 72px);
+
+font-family: 'SourceSansPro';
+font-size: 32px;
+line-height: 38px;
+text-align: center;
+
+color: #071629;
+}
+/* Our results speak fo */
+#ourresult {
+position: absolute;
+height: 40px;
+left: 34%;
+right: 33.86%;
+top: calc(50% - 40px/2 - 164px);
+
+font-family: 'SourceSansPro';
+font-size: 32px;
+line-height: 38px;
+text-align: center;
+
+color: #FFFFFF;
+}
 
 
 
