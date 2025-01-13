@@ -41,7 +41,7 @@ header{
     top: 37px;
   }
   /* contact us */
-  #ontactUs{
+  #contactUs{
     position: absolute;
     height: 15px;
     left: 78.43%;
@@ -313,10 +313,316 @@ bottom: 63.68%;
 background: #FF6565;
 }
 
-
+/* part_3_dark */
+#dark {
+position: absolute;
+width: 768px;
+height: 876px;
+left: 0px;
+top: 1769px;
+}
+/* dot_4 */
+#dot_4 {
+position: absolute;
+width: 190px;
+height: 190px;
+left: 422px;
+top: 633px;
+}
+/* Group 5 Copy */
+#dot_grp_4 {
+position: absolute;
+left: 60.03%;
+right: 25.39%;
+top: 80.25%;
+bottom: 11.53%;
+}
+/* +2% */
+#dot_num_4 {
+position: absolute;
+height: 26px;
+left: 10.71%;
+right: 9.82%;
+top: calc(50% - 26px/2 - 23px);
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 46px;
+line-height: 26px;
+text-align: center;
+color: #FFFFFF;
+}
+/* Lorem ipsum dolor */
+#dot_txt_4 {
+position: absolute;
+height: 26px;
+left: 0.89%;
+right: 0%;
+top: calc(50% - 26px/2 + 23px);
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 26px;
+text-align: center;
+color: #FFFFFF;
+}
+/* Polygon */
+#dot_poly_4 {
+position: absolute;
+left: 54.95%;
+right: 20.31%;
+top: 72.26%;
+bottom: 6.05%;
+background: #FF6565;
 }
 
-@media only screen and (max-width: 365px) {
+/* dot_3 */
+#dot_3 {
+position: absolute;
+width: 190px;
+height: 190px;
+left: 156px;
+top: 633px;
+}
+/* Group 5 */
+#dot_grp_3 {
+position: absolute;
+left: 25.39%;
+right: 60.03%;
+top: 80.25%;
+bottom: 11.53%;
+}
+/* +2% */
+#dot_num_3 {
+position: absolute;
+height: 26px;
+left: 10.71%;
+right: 9.82%;
+top: calc(50% - 26px/2 - 23px);
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 46px;
+line-height: 26px;
+text-align: center;
+color: #FFFFFF;
+}
+/* Lorem ipsum dolor */
+#dot_txt_3 {
+position: absolute;
+height: 26px;
+left: 0.89%;
+right: 0%;
+top: calc(50% - 26px/2 + 23px);
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 26px;
+text-align: center;
+color: #FFFFFF;
+}
+/* Polygon Copy */
+#dot_poly_3 {
+position: absolute;
+left: 20.31%;
+right: 54.95%;
+top: 72.26%;
+bottom: 6.05%;
+background: #FF6565;
+}
+/* dot_2 */
+#dot_2 {
+position: absolute;
+width: 190px;
+height: 190px;
+left: 422px;
+top: 401px;
+}
+/* Group 5 Copy */
+#dot_grp_2 {
+position: absolute;
+left: 60.03%;
+right: 25.39%;
+top: 53.77%;
+bottom: 38.01%;
+}
+/* +2% */
+#dot_num_2 {
+position: absolute;
+height: 26px;
+left: 10.71%;
+right: 9.82%;
+top: calc(50% - 26px/2 - 23px);
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 46px;
+line-height: 26px;
+text-align: center;
+color: #FFFFFF;
+}
+/* Lorem ipsum dolor */
+#dot_txt_2 {
+position: absolute;
+height: 26px;
+left: 0.89%;
+right: 0%;
+top: calc(50% - 26px/2 + 23px);
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 26px;
+text-align: center;
+color: #FFFFFF;
+}
+/* Polygon */
+#dot_poly_2 {
+position: absolute;
+left: 54.95%;
+right: 20.31%;
+top: 45.78%;
+bottom: 32.53%;
+}
+background: #FF6565;
+/* dot_1 */
+#dot_1 {
+position: absolute;
+width: 190px;
+height: 190px;
+left: 156px;
+top: 401px;
+}
+/* Group 5 */
+#dot_grp_1 {
+position: absolute;
+left: 25.39%;
+right: 60.03%;
+top: 53.77%;
+bottom: 38.01%;
+}
+/* +2% */
+#dot_num_1 {
+position: absolute;
+height: 26px;
+left: 10.71%;
+right: 9.82%;
+top: calc(50% - 26px/2 - 23px);
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 46px;
+line-height: 26px;
+text-align: center;
+color: #FFFFFF;
+}
+/* Lorem ipsum dolor */
+#dot_txt_1{
+position: absolute;
+height: 26px;
+left: 0.89%;
+right: 0%;
+top: calc(50% - 26px/2 + 23px);
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 26px;
+text-align: center;
+color: #FFFFFF;
+}
+/* Polygon Copy */
+#dot_poly_1 {
+position: absolute;
+left: 20.31%;
+right: 54.95%;
+top: 45.78%;
+bottom: 32.53%;
+background: #FF6565;
+}
+/* Lorem ipsum dolor si Copy 2 */
+#dark_txt {
+position: absolute;
+height: 104px;
+left: 8.72%;
+right: 8.33%;
+top: calc(50% - 104px/2 - 165px);
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+text-align: center;
+color: #FFFFFF;
+}
+/* background */
+#dark_img_bkg {
+position: absolute;
+width: 768px;
+height: 876px;
+left: 0px;
+top: 0px;
+}
+/* mask */
+#mask_dark {
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+background: #071629;
+}
+/* Our results speak fo */
+#ourresult {
+position: absolute;
+height: 40px;
+left: 20.96%;
+right: 20.44%;
+top: calc(50% - 40px/2 - 277px);
+
+font-family: 'SourceSansPro';
+font-size: 32px;
+line-height: 38px;
+text-align: center;
+
+color: #FFFFFF;
+}
+/* What we do… */
+#whatwedo {
+position: absolute;
+height: 40px;
+left: 35.01%;
+right: 34.85%;
+top: calc(50% - 40px/2 - 72px);
+
+font-family: 'SourceSansPro';
+font-size: 32px;
+line-height: 38px;
+text-align: center;
+
+color: #071629;
+}
+
+}
+/* Our results speak fo */
+#ourresult {
+position: absolute;
+height: 40px;
+left: 34%;
+right: 33.86%;
+top: calc(50% - 40px/2 - 164px);
+
+font-family: 'SourceSansPro';
+font-size: 32px;
+line-height: 38px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+@media only screen and (max-width: 375px) {
   /* header */
   header {
      position: absolute;
@@ -668,9 +974,317 @@ line-height: 26px;
 text-align: center;
 color: #071629;
 }
+/* part_3_dark */
+#dark {
+position: absolute;
+width: 375px;
+height: 1491px;
+left: 0px;
+top: 2507px;
+}
+
+/* dot_4 */
+#dot_4 {
+position: absolute;
+width: 190px;
+height: 190px;
+left: 93px;
+top: 1232px;
+}
+/* Group 5 */
+#dot_grp_4 {
+position: absolute;
+left: 35.2%;
+right: 34.93%;
+top: 87.32%;
+bottom: 7.85%;
+}
+/* +2% */
+#dot_num_4{
+position: absolute;
+height: 26px;
+left: 10.71%;
+right: 9.82%;
+top: calc(50% - 26px/2 - 23px);
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 46px;
+line-height: 26px;
+text-align: center;
+color: #FFFFFF;
+}
+/* Lorem ipsum dolor */
+#dot_txt_4 {
+position: absolute;
+height: 26px;
+left: 0.89%;
+right: 0%;
+top: calc(50% - 26px/2 + 23px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 26px;
+text-align: center;
+color: #FFFFFF;
+}
+/* Polygon Copy */
+#dot_poly_4 {
+position: absolute;
+left: 24.8%;
+right: 24.53%;
+top: 82.63%;
+bottom: 4.63%;
+background: #FF6565;
+}
+/* dot_3 */
+#dot_3{
+position: absolute;
+width: 190px;
+height: 190px;
+left: 93px;
+top: 1000px;
+}
+/* Group 5 */
+#dot_grp_3 {
+position: absolute;
+left: 35.2%;
+right: 34.93%;
+top: 71.76%;
+bottom: 23.41%;
+}
+/* Group 5 */
+#dot_grp_3 {
+position: absolute;
+left: 35.2%;
+right: 34.93%;
+top: 71.76%;
+bottom: 23.41%;
+}
+/* +2% */
+#dot_num_3{
+position: absolute;
+height: 26px;
+left: 10.71%;
+right: 9.82%;
+top: calc(50% - 26px/2 - 23px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 46px;
+line-height: 26px;
+/* identical to box height, or 57% */
+text-align: center;
+
+color: #FFFFFF;
+}
+/* Lorem ipsum dolor */
+#dot_txt_3 {
+position: absolute;
+height: 26px;
+left: 0.89%;
+right: 0%;
+top: calc(50% - 26px/2 + 23px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 26px;
+/* identical to box height, or 186% */
+text-align: center;
+
+color: #FFFFFF;
+}
+/* Polygon Copy */
+#dot_poly_3 {
+position: absolute;
+left: 24.8%;
+right: 24.53%;
+top: 67.07%;
+bottom: 20.19%;
+background: #FF6565;
+}
+/* dot_2 */
+#dot_2 {
+position: absolute;
+width: 190px;
+height: 190px;
+left: 93px;
+top: 768px;
+}
+/* Group 5 */
+#dot_grp_2{
+position: absolute;
+left: 35.2%;
+right: 34.93%;
+top: 56.2%;
+bottom: 38.97%;
+}
+/* +2% */
+#dot_num_2 {
+position: absolute;
+height: 26px;
+left: 10.71%;
+right: 9.82%;
+top: calc(50% - 26px/2 - 23px);
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 46px;
+line-height: 26px;
+text-align: center;
+color: #FFFFFF;
+}
+/* Lorem ipsum dolor */
+#dot_txt_2 {
+position: absolute;
+height: 26px;
+left: 0.89%;
+right: 0%;
+top: calc(50% - 26px/2 + 23px);
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 26px;
+text-align: center;
+color: #FFFFFF;
+}
+/* Polygon Copy */
+#dot_poly_2 {
+position: absolute;
+left: 24.8%;
+right: 24.53%;
+top: 51.51%;
+bottom: 35.75%;
+background: #FF6565;
+}
+/* dot_1 */
+#dot_1 {
+position: absolute;
+width: 190px;
+height: 190px;
+left: 93px;
+top: 536px;
+}
+/* Group 5 */
+#dot_grp_1 {
+position: absolute;
+left: 35.2%;
+right: 34.93%;
+top: 40.64%;
+bottom: 54.53%;
+}
+/* +2% */
+#dot_num_1 {
+position: absolute;
+height: 26px;
+left: 10.71%;
+right: 9.82%;
+top: calc(50% - 26px/2 - 23px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 46px;
+line-height: 26px;
+text-align: center;
+color: #FFFFFF;
+}
+/* Lorem ipsum dolor */
+#dot_txt_1 {
+position: absolute;
+height: 26px;
+left: 0.89%;
+right: 0%;
+top: calc(50% - 26px/2 + 23px);
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 26px;
+text-align: center;
+color: #FFFFFF;
+}
+/* Polygon Copy */
+#dot_poly_1 {
+position: absolute;
+left: 24.8%;
+right: 24.53%;
+top: 35.95%;
+bottom: 51.31%;
+background: #FF6565;
+}
+/* Lorem ipsum dolor si Copy 2 */
+#dark_txt {
+position: absolute;
+height: 208px;
+left: 9.6%;
+right: 9.07%;
+top: calc(50% - 208px/2 - 390.5px);
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+text-align: center;
+color: #FFFFFF;
+}
+/* background */
+#dark_img_bkg {
+position: absolute;
+width: 375px;
+height: 1491px;
+left: 0px;
+top: 0px;
+}
+/* mask */
+#mask_dark {
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+background: #071629;
+}
+/* What we do… */
+#whatwedo {
+position: absolute;
+height: 40px;
+left: 35.01%;
+right: 34.85%;
+top: calc(50% - 40px/2 - 72px);
+
+font-family: 'SourceSansPro';
+font-size: 32px;
+line-height: 38px;
+text-align: center;
+
+color: #071629;
+  }
+/* Our results speak fo */
+#ourresult {
+position: absolute;
+height: 40px;
+left: 20.96%;
+right: 20.44%;
+top: calc(50% - 40px/2 - 277px);
+
+font-family: 'SourceSansPro';
+font-size: 32px;
+line-height: 38px;
+text-align: center;
+
+color: #FFFFFF;
+}
 
 
 }
+
 /* logo */
 #logo {
 position: absolute;
